@@ -13,7 +13,7 @@ packages themsleves and install, this is only required for the RPi5. If using an
 </p>
 <p>
 Originally I used a usb-blaster for JTAG programming but after a while it was failing, I would recommend a FT2232 board<br>
-for prgramming.
+for initial programming. I find openFPGALoader the easiest to use.
 </p>
 FPGA used can be found here [Aliexpress Omdazz Store](https://tinyurl.com/omdazzstore)
 
